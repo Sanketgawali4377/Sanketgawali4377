@@ -1,4 +1,4 @@
-# 🚀 Hello, I'm [Your Name] 
+# 🚀 Hello, I'm sanket gawali
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=36BCF7&center=true&vCenter=true&width=435&lines=First-Year+Computer+Engineering+Student;AI+Enthusiast+%26+Vibe+Coder;Building+the+Future+with+AI;Exploring+Fast+Prototyping" alt="Typing SVG" />
