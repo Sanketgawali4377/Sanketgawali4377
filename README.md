@@ -1,153 +1,64 @@
-<!-- ================= HEADER ================= -->
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/Sanketgawali4377/Sanketgawali4377/main/banner.png" width="100%" />
+# Hi there, I'm [YourUsername] 👋
 
-<h1>Hi 👋, I'm Sanket Gawali</h1>
-
-<h3>🚀 Building • Learning • Innovating</h3>
-
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=550&lines=AI+Enthusiast;Vibe+Coder;Full+Stack+Learner;Chess+Player+♟️;Future+Software+Engineer" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=007ACC&center=true&vCenter=true&width=435&lines=1st+Year+Computer+Engineering+Student;Passionate+about+AI+%26+Full-Stack+Dev;SPPU+Autonomous+College;Vibe+Coding+with+Lovable" alt="Typing SVG" />
 
 </div>
 
----
+## 🚀 About Me
 
-<!-- ================= ABOUT ================= -->
-## 🧠 About Me
+1st year Computer Engineering student at an autonomous college under SPPU, Maharashtra, India.  
+Thriving on fast-prototyping and AI-driven development. Building with vibe coding and staying ahead of the curve.  
+Open to exciting projects and collaborations! [web:1][web:11]
 
-🎓 First-Year Computer Engineering Student (SPPU - Autonomous College)  
-💡 Passionate about **AI, Full-Stack Development & Problem Solving**  
-⚡ Exploring **AI-powered prototyping (Vibe Coding)**  
-🚀 Building projects that combine **logic + creativity + real-world impact**  
-♟️ I approach coding like chess — strategy first, execution next  
-
----
-
-<!-- ================= CURRENT FOCUS ================= -->
-## 🔥 Current Focus
-
-- 🤖 AI-driven development & automation  
-- ⚡ Fast prototyping using tools like **Lovable**  
-- 🧩 Strengthening **DSA & problem-solving skills**  
-- 🌐 Learning full-stack development step-by-step  
-- 🏗️ Building autonomous college projects (SPPU)  
-
----
-
-<!-- ================= TECH STACK ================= -->
 ## 🛠️ Tech Stack
 
-### 💻 Languages
-<p>
-  <img src="https://skillicons.dev/icons?i=cpp,python,js,java" />
-</p>
+### Languages
+![C++](https://img.shields.io/badge/-C++-007ACC?style=flat&logo=cplusplus&logoColor=white)
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![Java](https://img.shields.io/badge/-Java-007396?style=flat&logo=java&logoColor=white) [web:3]
 
-### ⚙️ Tools & Platforms
-<p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,linux" />
-</p>
+### Frameworks & Tools
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black)
+![Node.js](https://img.shields.io/badge/-Node.js-43853D?style=flat&logo=node.js&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white)
+![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat&logo=vs-code&logoColor=white) [web:11]
 
-### 🌐 Exploring / Learning
-<p>
-  <img src="https://skillicons.dev/icons?i=react,nodejs,tailwind" />
-</p>
+## ⚡ GitHub Stats
 
----
+<div align="center">
 
-<!-- ================= STATS ================= -->
-## 📊 GitHub Stats
+[![Ashutosh's github stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&title_color=007ACC&icon_color=007ACC&text_color=718096&bg_color=ffffff&hide_border=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=transparent)](https://github.com/anuraghazra/github-readme-stats) [web:1]
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Sanketgawali4377&show_icons=true&theme=tokyonight&hide_border=true" height="165"/>
-  <img src="https://streak-stats.demolab.com?user=Sanketgawali4377&theme=tokyonight&hide_border=true" height="165"/>
-</p>
+![GitHub Streak](https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=radical) [web:2]
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sanketgawali4377&layout=compact&theme=tokyonight&hide_border=true" height="150"/>
-</p>
+<!-- Replace with your WakaTime graph after setup -->
+![WakaTime](https://github-readme-stats.vercel.app/api/wakatime?username=YOUR_USERNAME) [web:9]
 
----
+</div>
 
-<!-- ================= ACTIVITY GRAPH ================= -->
-## ⚡ GitHub Activity
+## 🔥 Current Focus
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Sanketgawali4377&theme=tokyo-night" />
-</p>
+- AI-powered prototyping with tools like Lovable
+- Vibe Coding & fast full-stack development
+- Autonomous college projects under SPPU
+- Competitive programming & open-source contributions [web:1]
 
----
+## 📫 Connect with Me
 
-<!-- ================= TROPHIES ================= -->
-## 🏆 Achievements
+<div align="center">
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Sanketgawali4377&theme=tokyonight&no-frame=true&row=1&column=6" />
-</p>
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourprofile)
+[![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white)](https://twitter.com/yourprofile)
+[![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=flat&logo=instagram&logoColor=white)](https://instagram.com/yourprofile)
+[![Gmail](https://img.shields.io/badge/-Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:your.email@example.com) [web:3]
 
----
+</div>
 
-<!-- ================= SNAKE ================= -->
-## 🐍 Contribution Snake
+<div align="center">
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Sanketgawali4377/Sanketgawali4377/output/github-contribution-grid-snake.svg" />
-</p>
+**✨ Let's build something awesome together! ✨**
 
----
-
-<!-- ================= PROJECTS ================= -->
-## 🚀 Featured Projects
-
-### 🔍 Crime Investigation Simulator (C++)
-- Real-world crime-solving logic system  
-- Decision-based gameplay  
-- Case-solving simulation  
-
-### 🥛 Milk Dairy Management System
-- Farmer & buyer tracking system  
-- LocalStorage + Excel export  
-
-### 📰 News Website
-- Multi-page responsive UI  
-- Clean layout with strong readability  
-
----
-
-<!-- ================= CONNECT ================= -->
-## 🌐 Connect With Me
-
-<p align="center">
-  <a href="https://linkedin.com/in/YOUR_LINK">
-    <img src="https://skillicons.dev/icons?i=linkedin" />
-  </a>
-  <a href="mailto:YOUR_EMAIL">
-    <img src="https://skillicons.dev/icons?i=gmail" />
-  </a>
-  <a href="https://github.com/Sanketgawali4377">
-    <img src="https://skillicons.dev/icons?i=github" />
-  </a>
-</p>
-
----
-
-<!-- ================= PHILOSOPHY ================= -->
-## 💡 Philosophy
-
-> "Innovation isn't magic — it's logic, design, and persistence."
-
----
-
-<!-- ================= CTA ================= -->
-## 🤝 Let's Collaborate
-
-💬 Open for:
-- Hackathons 🚀  
-- Open Source 🌍  
-- Team Projects 💡  
-
----
-
-<p align="center">
-  ⭐ If you like my work, consider giving a star! ⭐  
-</p>
+</div>
