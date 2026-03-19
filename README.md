@@ -1,39 +1,38 @@
 <!-- ================= HEADER ================= -->
 <div align="center">
 
-<img src="YOUR_BANNER_IMAGE_LINK_HERE" width="100%" />
+<img src="https://raw.githubusercontent.com/Sanketgawali4377/Sanketgawali4377/main/banner.png" width="100%" />
 
 # Hi 👋, I'm Sanket Gawali
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=36BCF7&center=true&vCenter=true&width=500&lines=First-Year+Computer+Engineering+Student;AI+Enthusiast+%26+Vibe+Coder;Building+Projects+that+Solve+Real+Problems;Always+Learning+%F0%9F%9A%80" />
+### 🚀 Building • Learning • Innovating
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=36BCF7&center=true&vCenter=true&width=500&lines=First-Year+Computer+Engineering+Student;AI+Enthusiast;Vibe+Coder;Full+Stack+Learner;Chess+Player+♟️" />
 
 </div>
 
 ---
 
-<!-- ================= ABOUT ================= -->
 ## 🧠 About Me
 
 🎓 First-Year Computer Engineering Student (SPPU - Autonomous College)  
 💡 Passionate about **AI, Full-Stack Development & Problem Solving**  
-⚡ Currently exploring **AI-powered prototyping (Vibe Coding)**  
+⚡ Exploring **AI-powered prototyping (Vibe Coding)**  
 🚀 Building projects that combine **logic + creativity + real-world impact**  
 ♟️ I approach coding like chess — strategy first, execution next  
 
 ---
 
-<!-- ================= CURRENT FOCUS ================= -->
 ## 🔥 Current Focus
 
 - 🤖 AI-driven development & automation  
 - ⚡ Fast prototyping using tools like **Lovable**  
 - 🧩 Strengthening **DSA & problem-solving skills**  
 - 🌐 Learning full-stack development step-by-step  
-- 🏗️ Building **autonomous college projects (SPPU)**  
+- 🏗️ Building autonomous college projects (SPPU)  
 
 ---
 
-<!-- ================= TECH STACK ================= -->
 ## 🛠️ Tech Stack
 
 ### 💻 Languages
@@ -53,30 +52,35 @@
 
 ---
 
-<!-- ================= STATS ================= -->
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true" height="160"/>
-  <img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight&hide_border=true" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Sanketgawali4377&show_icons=true&theme=tokyonight&hide_border=true" height="160"/>
+  <img src="https://streak-stats.demolab.com?user=Sanketgawali4377&theme=tokyonight&hide_border=true" height="160"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sanketgawali4377&layout=compact&theme=tokyonight&hide_border=true" height="150"/>
 </p>
 
 ---
 
-<!-- ================= ACTIVITY ================= -->
 ## ⚡ GitHub Activity
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=tokyo-night" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Sanketgawali4377&theme=tokyo-night" />
 </p>
 
 ---
 
-<!-- ================= PROJECTS ================= -->
+## 🏆 Achievements
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Sanketgawali4377&theme=tokyonight&no-frame=true&row=1&column=6" />
+</p>
+
+---
+
 ## 🚀 Featured Projects
 
 ### 🔍 Crime Investigation Simulator (C++)
@@ -94,7 +98,6 @@
 
 ---
 
-<!-- ================= CONNECT ================= -->
 ## 🌐 Connect With Me
 
 <p align="center">
@@ -104,21 +107,19 @@
   <a href="mailto:YOUR_EMAIL">
     <img src="https://skillicons.dev/icons?i=gmail" />
   </a>
-  <a href="https://github.com/YOUR_USERNAME">
+  <a href="https://github.com/Sanketgawali4377">
     <img src="https://skillicons.dev/icons?i=github" />
   </a>
 </p>
 
 ---
 
-<!-- ================= PHILOSOPHY ================= -->
 ## 💡 Philosophy
 
 > "Innovation isn't magic — it's logic, design, and persistence."
 
 ---
 
-<!-- ================= CTA ================= -->
 ## 🤝 Let's Collaborate
 
 💬 Open for:
@@ -128,7 +129,6 @@
 
 ---
 
-<!-- ================= FOOTER ================= -->
 <p align="center">
   ⭐ If you like my work, consider giving a star! ⭐  
 </p>
