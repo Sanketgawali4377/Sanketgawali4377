@@ -8,14 +8,12 @@
 
 ---
 
-### 💫 About Me
-I am a **First-Year Computer Engineering** student at **Savitribai Phule Pune University** (Autonomous College). I thrive at the intersection of AI integration and creative automation.
 
-- 🎓 **Education:** Pursuing B.Tech in Computer Engineering.
-- 🛠️ **Current Focus:** Mastered AI-powered fast prototyping (Vibe Coding) using tools like **Lovable**.
-- 🏆 **Experience:** Active participant in coding competitions and tech presentations.
-- 💡 **Philosophy:** "Innovation isn't magic — it's logic, design, and persistence."
-
+<p align="left">    
+  <img src="https://img.shields.io/badge/Lovable-AI%20Prototyping-FF6F00?style=for-the-badge&logo=rocket&logoColor=white" />    
+  <img src="https://img.shields.io/badge/Agentic%20AI-Autonomous%20Systems-8A2BE2?style=for-the-badge&logo=brain&logoColor=white" />    
+  <img src="https://img.shields.io/badge/AI--Driven%20UI-Intelligent%20Interfaces-00C4CC?style=for-the-badge&logo=figma&logoColor=white" />    
+</p>
 ---
 
 ### 🛡️ Tech Arsenal
