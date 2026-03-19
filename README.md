@@ -8,12 +8,17 @@
 
 ---
 
+## 🧠 About Me
 
-<p align="left">    
-  <img src="https://img.shields.io/badge/Lovable-AI%20Prototyping-FF6F00?style=for-the-badge&logo=rocket&logoColor=white" />    
-  <img src="https://img.shields.io/badge/Agentic%20AI-Autonomous%20Systems-8A2BE2?style=for-the-badge&logo=brain&logoColor=white" />    
-  <img src="https://img.shields.io/badge/AI--Driven%20UI-Intelligent%20Interfaces-00C4CC?style=for-the-badge&logo=figma&logoColor=white" />    
-</p>
+I’m a **First-Year Computer Engineering student (SPPU)** who enjoys turning ideas into real, working systems.
+
+I’m currently exploring **AI-powered development, fast prototyping, and full-stack building**, focusing on projects that combine **logic, creativity, and real-world impact**.
+
+I believe in learning by building — not just consuming tutorials.
+
+♟️ I approach coding like chess:  
+**analyze → plan → execute → improve**
+
 ---
 
 ### 🛡️ Tech Arsenal
