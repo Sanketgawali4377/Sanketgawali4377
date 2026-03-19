@@ -27,7 +27,9 @@ I am a **First-Year Computer Engineering** student at **Savitribai Phule Pune Un
 </p>
 
 **Frontend & Design**
-> `Next.js` • `React` • `Tailwind CSS` • `Figma`
+<p align="left">    
+  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />      
+</p>
 
 **AI & Automation**
 > `Agentic AI` • `Fast Prototyping (Lovable)` • `AI-Driven UI`
@@ -52,8 +54,8 @@ I am a **First-Year Computer Engineering** student at **Savitribai Phule Pune Un
 </p>
 ## GitHub Activity
 
-<p align="center"> <img src="https://github-readme-activity-graph .vercel.app/graph?username= Sanketgawali4377&theme=tokyo-night" />
-
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Sanketgawali4377&theme=tokyo-night&bg_color=0d1117&color=58A6FF&line=58A6FF&point=ffffff&area=true&radius=8&hide_border=true" />
 </p>
 ---
 
