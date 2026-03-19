@@ -32,7 +32,11 @@ I am a **First-Year Computer Engineering** student at **Savitribai Phule Pune Un
 </p>
 
 **AI & Automation**
-> `Agentic AI` • `Fast Prototyping (Lovable)` • `AI-Driven UI`
+> <p align="left">    
+  <img src="https://img.shields.io/badge/Lovable-AI%20Prototyping-FF6F00?style=for-the-badge&logo=rocket&logoColor=white" />    
+  <img src="https://img.shields.io/badge/Agentic%20AI-Autonomous%20Systems-8A2BE2?style=for-the-badge&logo=brain&logoColor=white" />    
+  <img src="https://img.shields.io/badge/AI--Driven%20UI-Intelligent%20Interfaces-00C4CC?style=for-the-badge&logo=figma&logoColor=white" />    
+</p>
 
 **Tools & Cloud**
 <p align="left">    
