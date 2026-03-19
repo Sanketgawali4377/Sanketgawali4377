@@ -7,12 +7,13 @@
 
 <h3>🚀 Building • Learning • Innovating</h3>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=500&lines=AI+Enthusiast;Vibe+Coder;Full+Stack+Learner;Chess+Player+♟️" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=550&lines=AI+Enthusiast;Vibe+Coder;Full+Stack+Learner;Chess+Player+♟️;Future+Software+Engineer" />
 
 </div>
 
 ---
 
+<!-- ================= ABOUT ================= -->
 ## 🧠 About Me
 
 🎓 First-Year Computer Engineering Student (SPPU - Autonomous College)  
@@ -23,6 +24,7 @@
 
 ---
 
+<!-- ================= CURRENT FOCUS ================= -->
 ## 🔥 Current Focus
 
 - 🤖 AI-driven development & automation  
@@ -33,6 +35,7 @@
 
 ---
 
+<!-- ================= TECH STACK ================= -->
 ## 🛠️ Tech Stack
 
 ### 💻 Languages
@@ -52,11 +55,12 @@
 
 ---
 
+<!-- ================= STATS ================= -->
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Sanketgawali4377&show_icons=true&theme=tokyonight&hide_border=true" height="160"/>
-  <img src="https://streak-stats.demolab.com?user=Sanketgawali4377&theme=tokyonight&hide_border=true" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Sanketgawali4377&show_icons=true&theme=tokyonight&hide_border=true" height="165"/>
+  <img src="https://streak-stats.demolab.com?user=Sanketgawali4377&theme=tokyonight&hide_border=true" height="165"/>
 </p>
 
 <p align="center">
@@ -65,6 +69,7 @@
 
 ---
 
+<!-- ================= ACTIVITY GRAPH ================= -->
 ## ⚡ GitHub Activity
 
 <p align="center">
@@ -73,6 +78,7 @@
 
 ---
 
+<!-- ================= TROPHIES ================= -->
 ## 🏆 Achievements
 
 <p align="center">
@@ -81,6 +87,16 @@
 
 ---
 
+<!-- ================= SNAKE ================= -->
+## 🐍 Contribution Snake
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Sanketgawali4377/Sanketgawali4377/output/github-contribution-grid-snake.svg" />
+</p>
+
+---
+
+<!-- ================= PROJECTS ================= -->
 ## 🚀 Featured Projects
 
 ### 🔍 Crime Investigation Simulator (C++)
@@ -98,6 +114,7 @@
 
 ---
 
+<!-- ================= CONNECT ================= -->
 ## 🌐 Connect With Me
 
 <p align="center">
@@ -114,12 +131,14 @@
 
 ---
 
+<!-- ================= PHILOSOPHY ================= -->
 ## 💡 Philosophy
 
 > "Innovation isn't magic — it's logic, design, and persistence."
 
 ---
 
+<!-- ================= CTA ================= -->
 ## 🤝 Let's Collaborate
 
 💬 Open for:
