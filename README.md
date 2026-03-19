@@ -39,8 +39,12 @@ I am a **First-Year Computer Engineering** student at **Savitribai Phule Pune Un
 
 ### 📊 GitHub Metrics 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Sanketgawali4377&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Sanketgawali4377&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&custom_title=Sanket's+GitHub+Stats" />
   <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Sanketgawali4377&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sanketgawali4377&layout=compact&theme=tokyonight&hide_title=true" />
 </p>
 
 ---
