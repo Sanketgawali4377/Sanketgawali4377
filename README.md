@@ -1,64 +1,67 @@
-<div align="center">
+# 🚀 Hello, I'm [Your Name] 
 
-# Hi there, I'm [YourUsername] 👋
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=36BCF7&center=true&vCenter=true&width=435&lines=First-Year+Computer+Engineering+Student;AI+Enthusiast+%26+Vibe+Coder;Building+the+Future+with+AI;Exploring+Fast+Prototyping" alt="Typing SVG" />
+</p>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=007ACC&center=true&vCenter=true&width=435&lines=1st+Year+Computer+Engineering+Student;Passionate+about+AI+%26+Full-Stack+Dev;SPPU+Autonomous+College;Vibe+Coding+with+Lovable" alt="Typing SVG" />
+---
 
-</div>
+### 💫 About Me
+[span_5](start_span)[span_6](start_span)I am a **First-Year Computer Engineering** student at **Savitribai Phule Pune University** (Autonomous College)[span_5](end_span)[span_6](end_span). [span_7](start_span)[span_8](start_span)I thrive at the intersection of AI integration and creative automation[span_7](end_span)[span_8](end_span).
 
-## 🚀 About Me
+- [span_9](start_span)🎓 **Education:** Pursuing B.Tech in Computer Engineering[span_9](end_span).
+- 🛠️ **Current Focus:** Mastered AI-powered fast prototyping (Vibe Coding) using tools like **Lovable**.
+- [span_10](start_span)[span_11](start_span)🏆 **Experience:** Active participant in coding competitions and tech presentations[span_10](end_span)[span_11](end_span).
+- [span_12](start_span)💡 **Philosophy:** "Innovation isn't magic — it's logic, design, and persistence."[span_12](end_span)
 
-1st year Computer Engineering student at an autonomous college under SPPU, Maharashtra, India.  
-Thriving on fast-prototyping and AI-driven development. Building with vibe coding and staying ahead of the curve.  
-Open to exciting projects and collaborations! [web:1][web:11]
+---
 
-## 🛠️ Tech Stack
+### 🛡️ Tech Arsenal
+<p align="left">
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
+</p>
 
-### Languages
-![C++](https://img.shields.io/badge/-C++-007ACC?style=flat&logo=cplusplus&logoColor=white)
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![Java](https://img.shields.io/badge/-Java-007396?style=flat&logo=java&logoColor=white) [web:3]
+**[span_13](start_span)Frontend & Design**[span_13](end_span)
+> `Next.js` • `React` • `Tailwind CSS` • `Figma`
 
-### Frameworks & Tools
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black)
-![Node.js](https://img.shields.io/badge/-Node.js-43853D?style=flat&logo=node.js&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white)
-![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat&logo=vs-code&logoColor=white) [web:11]
+**[span_14](start_span)[span_15](start_span)AI & Automation**[span_14](end_span)[span_15](end_span)
+> `Agentic AI` • `Fast Prototyping (Lovable)` • `AI-Driven UI`
 
-## ⚡ GitHub Stats
+**[span_16](start_span)[span_17](start_span)Tools & Cloud**[span_16](end_span)[span_17](end_span)
+> `Git` • `GitHub` • `Supabase` • `AWS` • `VS Code`
 
-<div align="center">
+---
 
-[![Ashutosh's github stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&title_color=007ACC&icon_color=007ACC&text_color=718096&bg_color=ffffff&hide_border=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=transparent)](https://github.com/anuraghazra/github-readme-stats) [web:1]
+### 📊 GitHub Metrics 
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=tokyonight" />
+</p>
 
-![GitHub Streak](https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=radical) [web:2]
+<p align="center">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight" />
+</p>
 
-<!-- Replace with your WakaTime graph after setup -->
-![WakaTime](https://github-readme-stats.vercel.app/api/wakatime?username=YOUR_USERNAME) [web:9]
+---
 
-</div>
+### [span_18](start_span)🛠️ Featured Projects[span_18](end_span)
+- **AI Fast-Prototype:** A high-speed web application built using Vibe Coding principles and Lovable.
+- **Autonomous Lab Projects:** Specialized technical implementations from my college curriculum.
+- **Tech Presentation:** Creative research on improving modern technology through AI.
 
-## 🔥 Current Focus
+---
 
-- AI-powered prototyping with tools like Lovable
-- Vibe Coding & fast full-stack development
-- Autonomous college projects under SPPU
-- Competitive programming & open-source contributions [web:1]
+### [span_19](start_span)[span_20](start_span)🤝 Connect with Me[span_19](end_span)[span_20](end_span)
+<p align="left">
+<a href="mailto:your-email@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+<a href="https://linkedin.com/in/your-profile"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="your-portfolio-link"><img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white" /></a>
+<a href="https://discord.com/users/your-id"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" /></a>
+</p>
 
-## 📫 Connect with Me
-
-<div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourprofile)
-[![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white)](https://twitter.com/yourprofile)
-[![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=flat&logo=instagram&logoColor=white)](https://instagram.com/yourprofile)
-[![Gmail](https://img.shields.io/badge/-Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:your.email@example.com) [web:3]
-
-</div>
-
-<div align="center">
-
-**✨ Let's build something awesome together! ✨**
-
-</div>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=60&section=footer" width="100%" />
+</p>
