@@ -1,4 +1,4 @@
-
+![Sanket's GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical)
 🔭 Currently working on: Crime Investigation Simulator (C++)
 🌱 Learning: Data Structures & Game Development (C#)
 🎯 Goal: Become a strong problem solver + build real-world projects
