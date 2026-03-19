@@ -48,8 +48,7 @@ I am a **First-Year Computer Engineering** student at **Savitribai Phule Pune Un
 </p>
 ## GitHub Activity
 
-<p align="center"> <img
-src="https://github-readme-activity-graph .vercel.app/graph?username= Sanketgawali4377&theme=tokyo-night" />
+<p align="center"> <img src="https://github-readme-activity-graph .vercel.app/graph?username= Sanketgawali4377&theme=tokyo-night" />
 
 </p>
 ---
