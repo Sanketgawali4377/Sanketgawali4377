@@ -1,7 +1,9 @@
-# 🚀 Hello, I'm Sanket Gawali 
+<p align="center">
+  <img src="https://i.imgur.com/your-image-url.png" width="100%" alt="SANKET GAWALI Profile Banner" />
+</p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=36BCF7&center=true&vCenter=true&width=435&lines=First-Year+Computer+Engineering+Student;AI+Enthusiast+%26+Vibe+Coder;Building+the+Future+with+AI;Exploring+Fast+Prototyping" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=36BCF7&center=true&vCenter=true&width=435&lines=Building+the+Future;Agentic+AI+Builder;Vibe+Coding+Expert" alt="Typing SVG" />
 </p>
 
 ---
