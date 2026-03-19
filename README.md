@@ -1,4 +1,8 @@
 
+🔭 Currently working on: Crime Investigation Simulator (C++)
+🌱 Learning: Data Structures & Game Development (C#)
+🎯 Goal: Become a strong problem solver + build real-world projects
+
 ## 🚀 past Projects
 
 🔍 Crime Investigation Simulator (C++)
