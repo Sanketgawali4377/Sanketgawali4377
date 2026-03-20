@@ -2,8 +2,6 @@
 
 <a href="https://ibb.co/sJqwVW79"><img src="https://i.ibb.co/4gpTV1kR/Vibrant-Banner-with-Anime-Character-and-Sunrise-20260321-015523-0000.png" alt="Vibrant-Banner-with-Anime-Character-and-Sunrise-20260321-015523-0000" border="0"></a>
 
-<h1>Hi 👋, I'm Sanket Gawali</h1>
-
 <h3>🚀 Building • Learning • Innovating</h3>
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=550&lines=First-Year+Computer+Engineering+Student;AI+Enthusiast;Vibe+Coder;Full+Stack+Learner;Chess+Player+♟️" />
