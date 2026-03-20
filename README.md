@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://i.ibb.co/4gpTV1kR/Vibrant-Banner-with-Anime-Character-and-Sunrise-20260321-015523-0000.png" width="100%" />
+<img src="https://i.ibb.co/4gpTV1kR/Vibrant-Banner-with-Anime-Character-and-Sunrise-20260321-015523-0000.png" width="100%" hight ="100%"/>
 
 <h1>Hi 👋, I'm Sanket Gawali</h1>
 
