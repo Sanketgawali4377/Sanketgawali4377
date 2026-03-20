@@ -1,9 +1,14 @@
+<div align="center">
+
 <img src="https://raw.githubusercontent.com/Sanketgawali4377/Sanketgawali4377/main/banner.png" width="100%" />
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=36BCF7&center=true&vCenter=true&width=435&lines=Building+the+Future;Agentic+AI+Builder;Vibe+Coding+Expert" alt="Typing SVG" />
-</p>
+<h1>Hi 👋, I'm Sanket Gawali</h1>
 
+<h3>🚀 Building • Learning • Innovating</h3>
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=550&lines=AI+Enthusiast;Vibe+Coder;Full+Stack+Learner;Chess+Player+♟️" />
+
+</div>
 ---
 
 ## 🧠 About Me
