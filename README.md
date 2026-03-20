@@ -1,6 +1,4 @@
-<p align="center">
-  <img src="https://i.imgur.com/your-image-url.png" width="100%" alt="SANKET GAWALI Profile Banner" />
-</p>
+<img src="https://raw.githubusercontent.com/Sanketgawali4377/Sanketgawali4377/main/banner.png" width="100%" />
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=36BCF7&center=true&vCenter=true&width=435&lines=Building+the+Future;Agentic+AI+Builder;Vibe+Coding+Expert" alt="Typing SVG" />
