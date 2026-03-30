@@ -70,9 +70,6 @@ I believe in learning by building — not just consuming tutorials.
 
 <p align="center">
   <img height="180px" 
-  src="https://github-readme-stats.vercel.app/api?username=Sanketgawali4377&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
-  
-  <img height="180px" 
   src="https://streak-stats.demolab.com?user=Sanketgawali4377&theme=tokyonight&hide_border=true" />
 </p>
 
