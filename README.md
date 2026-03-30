@@ -69,15 +69,19 @@ I believe in learning by building — not just consuming tutorials.
 ## 📊 GitHub Metrics
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Sanketgawali4377&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Sanketgawali4377&theme=tokyonight" />
+  <img height="180px" 
+  src="https://github-readme-stats.vercel.app/api?username=Sanketgawali4377&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
+  
+  <img height="180px" 
+  src="https://streak-stats.demolab.com?user=Sanketgawali4377&theme=tokyonight&hide_border=true" />
 </p>
 
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sanketgawali4377&layout=compact&theme=tokyonight&hide_title=true" />
+  <img width="48%" 
+  src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sanketgawali4377&layout=compact&theme=tokyonight&hide_title=true" />
 </p>
 
----
+___
 
 ## ⚡ GitHub Activity
 
