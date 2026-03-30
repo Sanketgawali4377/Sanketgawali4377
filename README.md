@@ -102,9 +102,11 @@ ___
   <a href="mailto:your-email@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
+
   <a href=https://www.linkedin.com/in/sanket-gawali-047083384?utm_source=share_via&utm_content=profile&utm_medium=member_android
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
+
   <a href="https://sanketgawali.me">
     <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white" />
   </a>
