@@ -67,26 +67,33 @@ I believe in learning by building — not just consuming tutorials.
 ---
 
 ## 📊 GitHub Metrics
+ <summary><h2>📊 Stats and Activity</h2></summary>
 
-<p align="center">
-  <img height="180px" 
-  src="https://streak-stats.demolab.com?user=Sanketgawali4377&theme=tokyonight&hide_border=true" />
-</p>
+  <h3>🔥 Streak Stats</h3>
 
-<p align="center">
-  <img width="48%" 
-  src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sanketgawali4377&layout=compact&theme=tokyonight&hide_title=true" />
-</p>
+  <!-- GitHub Readme Streak Stats - https://github.com/sanketgawali4377/github-readme-streak-stats -->
+  <p>
+    <a href="https://github.com/sanketgawali4377/github-readme-streak-stats">
+      <!-- Use https://streak-stats.demolab.com or self-host with your own Vercel app - visit https://git.io/streak-stats for instructions -->
+      <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="sanketgawali4377's streak" src="https://github-readme-streak-stats-eight.vercel.app/?user=sanketgawali4377&theme=monokai-metallian&hide_border=true&short_numbers=true"/>
+    </a>
+    <p>🔥 Get streak stats for your profile at <a href="https://git.io/streak-stats">git.io/streak-stats</a></p>
+  </p>
 
-___
+  <h3>💻 GitHub Profile Stats</h3>
 
-## ⚡ GitHub Activity
+  <!-- https://github.com/anuraghazra/github-readme-stats -->
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Sanketgawali4377&theme=tokyo-night&bg_color=0d1117&color=58A6FF&line=58A6FF&point=ffffff&area=true&radius=8&hide_border=true" />
-</p>
+  <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="sanketgawali4377's Github Stats" src="https://sanketgawali4377-github-readme-stats.vercel.app/api/?username=sanketgawali4377&show_icons=true&include_all_commits=true&count_private=true&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" height="192px"/></a>
+  <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="sanketgawali4377's Top Languages" src="https://sanketgawali4377-github-readme-stats.vercel.app/api/top-langs/?username=sanketgawali4377&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide=Jupyter%20Notebook,Roff" height="192px"/></a>
+  <br/>
 
----
+  <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
+  
+  <!-- https://github.com/ashutosh00710/github-readme-activity-graph -->
+
+  <a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="sanketgawali4377's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph/?username=sanketgawali4377&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
+
 
 ## 🛠️ Featured Projects
 
