@@ -79,7 +79,13 @@ I believe in learning by building — not just consuming tutorials.
     </a>
     <p>🔥 Get streak stats for your profile at <a href="https://git.io/streak-stats">git.io/streak-stats</a></p>
   </p>
+<p align="center">
+  <img src="./snake-output/github-contribution-grid-snake-dark.svg" width="100%" />
+</p>
 
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:a855f7,100:ec4899&height=2"/>
+</p>
   
   <!-- https://github.com/ashutosh00710/github-readme-activity-graph -->
 
