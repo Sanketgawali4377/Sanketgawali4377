@@ -38,7 +38,7 @@ I believe in learning by building — not just consuming tutorials.
 ## 🛠️ Tech Arsenal
 
 ### 💻 Languages
-<p align="center">
+<p align="left">
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
@@ -46,19 +46,19 @@ I believe in learning by building — not just consuming tutorials.
 </p>
 
 ### 🎨 Frontend & Design
-<p align="center">
+<p align="left">
   <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
 </p>
 
 ### 🤖 AI & Automation
-<p align="center">
+<p align="left">
   <img src="https://img.shields.io/badge/Lovable-AI%20Prototyping-FF6F00?style=for-the-badge&logo=rocket&logoColor=white" />
   <img src="https://img.shields.io/badge/Agentic%20AI-Autonomous%20Systems-8A2BE2?style=for-the-badge&logo=brain&logoColor=white" />
   <img src="https://img.shields.io/badge/AI--Driven%20UI-Intelligent%20Interfaces-00C4CC?style=for-the-badge&logo=figma&logoColor=white" />
 </p>
 
 ### ⚙️ Tools & Cloud
-<p align="center">
+<p align="left">
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
   <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
